@@ -1,3 +1,12 @@
+Design of 1R/1W 8T SRAM Cell 
+Guide: Dr. Anuj Grover 
+
+Design and simulation of 1R/1W 8T SRAM in CMOS 65. 
+Custom layout design in Virtuoso for better area optimization, RSNM and I-cell 6-sigma 
+qualified. Functionality verification and simulations in Eldo. Parasitic extraction for post 
+layout and pre-post FOM comparison. Resulting DRC and LVS clean 8T SRAM cell, 32x32 
+SRAM Array in CMOS65.
+
 Design specifications & understanding: 
 
 Given specification :
